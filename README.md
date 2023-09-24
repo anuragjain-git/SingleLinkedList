@@ -1,7 +1,7 @@
 # SingleLinkedList
 Single Linked List using java collection
 
-View code for these operations and and its running time.
+View code for these operations and its running time.
 
 - Insertion 
 - Deletion
